@@ -36,11 +36,4 @@ To use the application, simply run the Python script in your terminal or command
 4. The program will fetch and display the weather data for the specified location.
 5. Finally, you will be asked if you want to perform another search. If you choose to do so, the program will start over from step 1.
 
-## Future Enhancements
-
-1. Add support for zip codes outside the US.
-2. Incorporate a graphical user interface (GUI) to enhance user experience.
-3. Provide forecast data in addition to the current weather.
-4. Add a function to convert wind speed between different units (m/s, mph, km/h).
-
 Please feel free to contribute to the development of this project by submitting pull requests.

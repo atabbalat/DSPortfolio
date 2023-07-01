@@ -27,5 +27,3 @@ Each project has its own README file that provides detailed information about th
 Questions, suggestions, or potential collaboration opportunities? Please feel free to reach out at [abedtabbalat@gmail.com](mailto:abedtabbalat@gmail.com).
 
 This portfolio aims to be informative and engaging. Thank you for visiting!
-
-Please note that the above README is a template, and customization may be needed based on specific project details, structure, and preferences.
