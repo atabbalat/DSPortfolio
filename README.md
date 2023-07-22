@@ -16,7 +16,7 @@ Welcome to this Data Science Portfolio! Here, you'll find a collection of projec
 
 6. [Movie Recommendation System](https://github.com/atabbalat/DSPortfolio/blob/master/6%20-%20Movie%20Recommender%20App/README.md): A movie recommendation system built using collaborative filtering. It involves data preprocessing, creating user-item matrices, and calculating similarity between users or items to make personalized movie recommendations.
 
-7. Project 7 (work in progress)
+7. [Insurance Chatbot](https://github.com/atabbalat/DSPortfolio/blob/master/7%20-%20Insurance%20ChatBot/README.md): An implementation of an insurance chatbot using a deep learning model. The chatbot utilizes Natural Language Processing (NLP) to understand user inputs and provide appropriate responses. It is trained using a JSON file with data relevant to the insurance domain.
 
 ## How to Use
 
